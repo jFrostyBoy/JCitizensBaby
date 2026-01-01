@@ -22,7 +22,7 @@
 
 1. Поместите `JCitizensBaby.jar` в папку `plugins`.
 2. Перезапустите сервер
-3. При первом запуске создастся папка `plugins/JCitizensBaby` с файлами `config.yml` и `data.yml` (запрещено ручное редактирование этого файла).
+3. При первом запуске создастся папка `plugins/JCitizensBaby` с файлом `config.yml`.
 
 ## Права (Permissions)
 
