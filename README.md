@@ -60,3 +60,6 @@ messages:
   reload-success: "&aКонфиг JCitizensBaby успешно перезагружен!"
   reload-fail: "&cОшибка при перезагрузке конфига!"
 ```
+
+<img width="1920" height="713" alt="Знімок_20260101_030242" src="https://github.com/user-attachments/assets/9fff1945-c6a9-4d36-9240-b7ea783f4cb3" />
+<img width="1916" height="693" alt="Знімок_20260101_030302" src="https://github.com/user-attachments/assets/478a106e-bb0c-4a5c-a579-cc6b904726f1" />
