@@ -1,0 +1,17 @@
+name: JCitizensBaby
+version: '1.0'
+main: jfbdev.jcitizensbaby.JCitizensBaby
+api-version: '1.21'
+authors: [ jFrostyBoy ]
+description: Citizens Addon | Масштаб NPC с сохранением скина
+depend: [Citizens]
+
+commands:
+  jcbreload:
+    description: Перезагрузить конфиг
+    usage: /jcbreload
+
+permissions:
+  jcitizensbaby.use:
+    description: Разрешает использовать /npc scale и /jcbreload
+    default: op
